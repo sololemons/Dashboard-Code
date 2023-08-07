@@ -1,0 +1,35 @@
+ #Person{
+    
+
+    border:2px solid black;
+    padding: 10px;
+    border: burlywood;
+    width: 100%;
+    
+    
+    
+
+}
+#Person th{
+    border:2px solid black;
+    text-align: center;
+    color: azure;
+   background-color: chocolate;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+#Person td{
+
+    border:2px solid white;
+    background-color: antiquewhite;
+
+}
+.huit{
+    background-color: aliceblue;
+    width: 20%;
+    height: 30px;
+    padding-bottom: 0%;
+}
+ 
+
